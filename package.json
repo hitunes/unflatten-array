@@ -1,0 +1,14 @@
+{
+    "name": "@hitunes247/unflatten-array",
+    "version": "1.0.0",
+    "description": "Converts a flat array of objects to a tree like array of objects",
+    "license": "MIT",
+    "repository": "hitunes/unflatten-array",
+    "main": "index.js",
+    "keywords": [
+        "array",
+        "npm",
+        "package",
+        "hitunes"
+    ]
+}
